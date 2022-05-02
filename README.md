@@ -11,7 +11,7 @@ pip install Discord-Oauth2-API
 ### Example 
 
 ```
-from discord-oauth2-api import get_user_data
+from discord_oauth2_api import get_user_data
 
 
 user_json = get_user_data.get_user_data(code = "", client_id = "", client_secret = "", redirect_uri = "")
