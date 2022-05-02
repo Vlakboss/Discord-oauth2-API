@@ -35,4 +35,4 @@ def get_user_data(code, client_id, client_secret, redirect_uri):
         'refresh_token': refresh_token
     }
     
-    return(user_data)
+    return user_data
