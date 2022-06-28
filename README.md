@@ -38,6 +38,6 @@ More information about variables can be found here -> https://discord.com/develo
 ## Links
 
 - Author's website -> https://vlakoznaltech.tk/
-- Documentation -> Work in progres ;)
+- Documentation -> Work in progress ;)
 
 ###### README.md ver. 1.0
