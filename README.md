@@ -37,7 +37,7 @@ More information about variables can be found here -> https://discord.com/develo
 
 ## Links
 
-- Author's website -> https://vlakoznaltech.tk/
+- Author's website -> https://vlakoznaltech.eu/
 - Documentation -> Work in progress ;)
 
 ###### README.md ver. 1.0
